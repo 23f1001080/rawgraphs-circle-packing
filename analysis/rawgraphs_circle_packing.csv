@@ -1,0 +1,19 @@
+sector,asset,investment
+Finance,Bank of America,1800837
+Finance,JPMorgan,3402735
+Energy,ConocoPhillips,5446046
+Tech,Apple,4523012
+Tech,Microsoft,3901200
+Healthcare,Pfizer,1250000
+Healthcare,Moderna,820000
+Consumer,Nike,950000
+Consumer,Unilever,720000
+Industrials,Caterpillar,610000
+RealEstate,Prologis,430000
+Utilities,Duke Energy,300000
+Finance,Goldman Sachs,1500000
+Energy,ExxonMobil,4700000
+Tech,Alphabet,4100000
+Tech,Amazon,5200000
+Consumer,Procter & Gamble,860000
+Healthcare,Johnson & Johnson,1300000
